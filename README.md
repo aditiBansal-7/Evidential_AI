@@ -120,3 +120,6 @@ docker run -p 8501:8501 evidently-streamlit
 🌍 Open [http://localhost:8501](http://localhost:8501) in your browser.  
 
 🚀 Enjoy **Evidently AI-powered ML monitoring!**
+
+![image](https://github.com/user-attachments/assets/f8ecf33b-64a9-4a0e-b83f-4493a58889ee)
+
