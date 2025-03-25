@@ -124,13 +124,13 @@ docker run -p 8501:8501 evidently-streamlit
 
 ![image](https://github.com/user-attachments/assets/f8ecf33b-64a9-4a0e-b83f-4493a58889ee)
 
-🎯 **Conclusion**
+🎯 Conclusion
 
-✅ Successfully deployed an Evidently AI dashboard using Streamlit inside Docker. ✅ Integrated report selection for different projects. ✅ Used Docker for easy deployment and scalability. ✅ Organized code into modular UI and utility functions.
+✅ Successfully deployed an Evidently AI dashboard using Streamlit inside Docker.✅ Integrated report selection for different projects.✅ Used Docker for easy deployment and scalability.✅ Organized code into modular UI and utility functions.
 
-🚀** Next Steps**
+🚀 Next Steps
 
-🔹 Add authentication for project access. 🔹 Implement report comparisons over different periods. 🔹 Deploy this setup on a cloud platform like AWS/GCP.
+🔹 Add authentication for project access.🔹 Implement report comparisons over different periods.🔹 Deploy this setup on a cloud platform like AWS/GCP.
 
 🎯 Keep exploring and happy coding! 🚀
 
